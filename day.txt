@@ -2,3 +2,4 @@ lianxi
 nihao
 woshiliaohong
 on the local change add a new line
+i am learnning git
